@@ -1,0 +1,12 @@
+{
+    "name": "webkadabra/yii-auth-module",
+    "description": "Some code we use for user authorization",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergii Gamaiunov",
+            "email": "hello@webkadabra.com"
+        }
+    ],
+    "require": {}
+}
